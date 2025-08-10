@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My Name is [Bastian Dennstedt](https://www.linkedin.com/in/dennstedtb/). Even though I am in my mid twenties I am already working for 10 years with SAP technologies, especially programming in ABAP. Besides developing in ABAP, I always try to make small little projects in other languages, like UI5, Typescript, Python or in a few months I want to start with a little bit of SWIFT development.  
+My Name is [Bastian Dennstedt](https://www.linkedin.com/in/dennstedtb/). Born in 1997, I've already started to develop ABAP Coding at sweet 16 years old. Now almost (puuh, since I don't in which year you are going to read this, you got to calculate the number yourself.. but at least 12!!1!) <your calculated number in years> later I am not "only" developing in ABAP on the HCM Module anymore. My main focus is now on developing BTP extensions with SAPUI5 and CAP, so I can get the most out of my clients systems. 
+Besides this whole professional stuff I also develop some things in my free time and try myself out in other languages. If there is anything interesting to show, you might see it here as a public repository... maybe. Well... scroll down and you'll see. 
 <!--
 **DennstedtB/DennstedtB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
