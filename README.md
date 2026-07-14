@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-My Name is [Bastian Dennstedt](https://www.linkedin.com/in/dennstedtb/). Born in 1997, I've already started to develop ABAP Coding at sweet 16 years old. Now almost (puuh, since I don't in which year you are going to read this, you got to calculate the number yourself.. but at least 12!!1!) <your calculated number in years> later I am not "only" developing in ABAP on the HCM Module anymore. My main focus is now on developing BTP extensions with SAPUI5 and CAP, so I can get the most out of my clients systems. 
-Besides this whole professional stuff I also develop some things in my free time and try myself out in other languages. If there is anything interesting to show, you might see it here as a public repository... maybe. Well... scroll down and you'll see. 
+My Name is [Bastian Dennstedt](https://www.linkedin.com/in/dennstedtb/) and welcome to my private place. 
+I am a SAP Developer, focusing on SAP BTP Extensions with CAP, RAP and SAPUI5. 
+
+I started out as a sole ABAP Developer focused on SAP HCM, but now - 12 years later - I am doing much more. 
+
+Have some fun finding my repositories and look around. Contact me on LinkedIn if you need anything! 
+
 <!--
 **DennstedtB/DennstedtB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
